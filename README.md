@@ -6,7 +6,7 @@ Junior web developer
 --------------------
 
 * 🌍  I'm based in Lebanon
-* ✉️  You can contact me at [nouralhoudarifaiehg@gmail.com](mailto:nouralhoudarifaiehg@gmail.com)
+* ✉️  You can contact me at [nouralhoudarifaieh@gmail.com](mailto:nouralhoudarifaieh@gmail.com)
 
 ### Skills
 
